@@ -9,6 +9,14 @@ public class InsertionSort {
         for(int ele : arr) {
             System.out.print(ele+"  ");
         }
+
+             String s = "abcabc";
+        String t = "abc";
+        String a = t +"abc";
+        String b = "abc"+"abc";
+        String w = "abcabc";
+        System.out.println(a == b);
+        System.out.println(w == b);
     }
 
     public static void correctPlacePosition(int[] arr, int pos) {
