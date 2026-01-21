@@ -1,4 +1,4 @@
-package Lecture6;
+package Lecture7;
 
 public class FirstAndLastOccurence {
     public static void main(String[] args) {

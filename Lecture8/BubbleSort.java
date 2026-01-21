@@ -1,4 +1,4 @@
-package Lecture7;
+package Lecture8;
 
 public class BubbleSort {
     public static void main(String[] args) {
