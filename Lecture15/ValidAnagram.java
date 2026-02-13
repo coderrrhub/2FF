@@ -11,6 +11,8 @@ public class ValidAnagram {
         System.out.println(ans);
     }
 
+    // T.C.:- O(N)
+    // S.C.:- O(N^2)
     public static boolean solution(String s, String t) {
         if(s.length() != t.length()) {
             return false;
